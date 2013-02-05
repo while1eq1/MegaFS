@@ -3,6 +3,7 @@ MegaFS
 
 A FUSE filesystem wrapper for Mega.
 
+Currently, only python 2.7.3 is supported.
 
 Instructions (Mac OSX)
 =====================
@@ -16,5 +17,3 @@ Prerequisites:
 1. Install OSXFUSE.
 2. Install fuse-python.
 3. Install PyCrypto
-
-
